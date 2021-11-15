@@ -1,0 +1,50 @@
+
+    w1=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w2=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w3=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w4=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w5=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w6=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w7=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w8=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w9=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w10=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w11=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w12=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w13=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w14=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w15=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w16=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w17=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w18=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w19=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w20=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w21=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w22=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w23=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w24=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    w25=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+
+    sw1=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    sw2=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    sw3=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    sw4=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+    sw5=[0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1]
+
+    wr=[0.15,0.15,0.15,0.15,0.15,0.15]
+    wg=[0.15,0.15,0.15,0.15,0.15,0.15]
+    wb=[0.15,0.15,0.15,0.15,0.15,0.15]
+
+
+    w1=[(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2)]
+    w2=[(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2)]
+    w3=[(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2)]
+    w4=[(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2)]
+    w5=[(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2),(random.random()*2-1)*math.sqrt(1/2)]
+
+    wr=[(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7)]
+    wg=[(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7)]
+    wb=[(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7),(random.random()*2-1)*math.sqrt(6/7)]
+
+
+    
